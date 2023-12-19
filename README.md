@@ -25,9 +25,11 @@ I'm NAKA-MURA Hayate (a.k.a. ASA-NAMI Jin.) I belong Department of Electrical an
 # Links
 * Mail : `hayatehay.njb<at>gmail.com`
 * SourceForge : https://sourceforge.net/u/hayate-njbradio/profile/
-* OSDN : https://osdn.net/users/maroujin/
+* <s>OSDN : https://osdn.net/users/maroujin/</s>
 * Misskey (dot io server) : https://misskey.io/@hayatehay
 * Misskey (9ineverse server) : https://9ineverse.com/@hayatehay
 * Mastodon (Fedibird server) : https://fedibird.com/@hayatehay
-* Goz-Mez : https://www.youtube.com/@hayatehay
+* Threads : https://www.threads.net/@hayatehay_njb
+* YouTube (a.k.a. Goz-Mez) : https://www.youtube.com/@hayatehay
+* Twitter (a.k.a. X) : https://twitter.com/hayatehay
 * Fantia : https://fantia.jp/fanclubs/380379
