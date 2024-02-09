@@ -2,7 +2,8 @@
 -----
 
 [![Age: 18](https://img.shields.io/badge/Age-18-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_1)
-[![Belong: RadioNewJapan](https://img.shields.io/badge/Belongs-RadioNewJapan-green?style=for-the-badge)](https://github.com/njb-fm)
+[![Belong: Naka-mura Jukebox](https://img.shields.io/badge/Belongs-NAKAMURAJUKEBOX-green?style=for-the-badge)](https://github.com/njb-fm)
+[![Real Permissive: No GPL](https://img.shields.io/badge/real_permissive-No_GPL-99CC33?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/license/bsd-3-clause/)
 
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=hayatehay&include_all_commits=true&show_icons=true&title_color=227bc8&text_color=225050&icon_color=ff0000&role=OWNER,ORGANIZATION_MEMBER)
 
