@@ -1,25 +1,19 @@
-# NAKA-MURA Hayate (a.k.a. ASA-NAMI Jin)
+# Hayate Nakamura (a.k.a Jin Asanami)
 -----
 
-[![Age: 18](https://img.shields.io/badge/Age-18-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_1)
-[![Belong: Naka-mura Jukebox](https://img.shields.io/badge/Belongs-NAKAMURAJUKEBOX-green?style=for-the-badge)](https://github.com/njb-fm)
+[![Age: 19](https://img.shields.io/badge/Age-19-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_1)
+[![Belong: Nakamura Musical Industries](https://img.shields.io/badge/Belongs-Nakamura-Musical-Industries-green?style=for-the-badge)](https://github.com/nmimusic)
 [![Real Permissive: No GPL](https://img.shields.io/badge/real_permissive-No_GPL-99CC33?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/license/bsd-3-clause/)
 
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=hayatehay&include_all_commits=true&show_icons=true&title_color=227bc8&text_color=225050&icon_color=ff0000&role=OWNER,ORGANIZATION_MEMBER)
 
-I'm NAKA-MURA Hayate (a.k.a. ASA-NAMI Jin.) I belong Department of Electrical and Electonic Engineering, Nagano National College of Technology (Nagano-Kosen.) Also I've been doing most of the work for Dojin Radio New Japan Broadcasting Club (NJB) since 2017.
+I'm Hayate Nakamura (a.k.a. Jin Asanami). I belong Department of Electrical and Electonic Engineering, Nagano National College of Technology (Nagano-Kosen.) Also I've been doing most of the work for Nakamura Musical Industries Dojin Club (NMI) since 2017.
 
 -----
-# Major projects I'm working on
-* Production of NJB programmes
-* ZerO: To The Shining Ruin - Visual novel written in NScripter
-* Great Days: Nonexistence - Alternative Emotion Novel
-* Kamuriki Linux - Debian-based distro for Japanese people
-* Univalent Versatile Environment - Arch-based distro
-* UniFetch - Neofetch fork
-* add-pacman-repository
-* DNFPac
-* DebISO - Debian/Ubuntu Remix Creator
+
+# Labels in NMI
+* NJB Records (NJB means "Nakamura Jukebox")
+* Ruritania
 
 -----
 
