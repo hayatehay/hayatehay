@@ -2,7 +2,7 @@
 -----
 
 [![Age: 19](https://img.shields.io/badge/Age-19-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_1)
-[![Belong: Nakamura Musical Industries](https://img.shields.io/badge/Belongs-Nakamura-Musical-Industries-green?style=for-the-badge)](https://github.com/nmimusic)
+[![Belong: Nakamura Musical Industries](https://img.shields.io/badge/Belongs-NMIMUSIC-green?style=for-the-badge)](https://github.com/nmimusic)
 [![Real Permissive: No GPL](https://img.shields.io/badge/real_permissive-No_GPL-99CC33?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/license/bsd-3-clause/)
 
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=hayatehay&include_all_commits=true&show_icons=true&title_color=227bc8&text_color=225050&icon_color=ff0000&role=OWNER,ORGANIZATION_MEMBER)
