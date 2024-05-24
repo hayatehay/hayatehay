@@ -12,8 +12,8 @@ I'm Hayate Nakamura (a.k.a. Jin Asanami). I belong Department of Electrical and 
 -----
 
 # Labels in NMI
-* NJB Records (NJB means "Nakamura Jukebox")
-* Ruritania
+* Nakamura Music Records (NR)
+* Ruritania Music Entertainment (RU)
 
 -----
 
