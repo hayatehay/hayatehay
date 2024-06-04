@@ -1,4 +1,4 @@
-# Hayate Nakamura (a.k.a Jin Asanami)
+# Jin Asanami (a.k.a Hayate Nakamura)
 -----
 
 [![Age: 19](https://img.shields.io/badge/Age-19-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_1)
@@ -7,7 +7,7 @@
 
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=hayatehay&include_all_commits=true&show_icons=true&title_color=227bc8&text_color=225050&icon_color=ff0000&role=OWNER,ORGANIZATION_MEMBER)
 
-I'm Hayate Nakamura (a.k.a. Jin Asanami). I belong Department of Electrical and Electonic Engineering, Nagano National College of Technology (Nagano-Kosen.) Also I've been doing most of the work for Nakamura Musical Industries Dojin Club (NMI) since 2017.
+I'm Jin Asanami (a.k.a. Hayate Nakamura). I belong Department of Electrical and Electonic Engineering, Nagano National College of Technology (Nagano-Kosen.) Also I've been doing most of the work for Nakamura Musical Industries Dojin Club (NMI) since 2017.
 
 -----
 
@@ -19,12 +19,13 @@ I'm Hayate Nakamura (a.k.a. Jin Asanami). I belong Department of Electrical and 
 
 # Links
 * Mail : `hayatehay.njb<at>gmail.com`
+* Misskey (9ineverse) : https://9ineverse.com/@hayatehay
+* Misskey (dot io) : https://misskey.io/@hayatehay
+* Mastodon (Fedibird) : https://fedibird.com/@hayatehay
+* Threads : https://www.threads.net/@hayatehay_njb
+* SoundCloud : https://soundcloud.com/hayatehay
 * SourceForge : https://sourceforge.net/u/hayate-njbradio/profile/
 * <s>OSDN : https://osdn.net/users/maroujin/</s>
-* Misskey (dot io server) : https://misskey.io/@hayatehay
-* Misskey (9ineverse server) : https://9ineverse.com/@hayatehay
-* Mastodon (Fedibird server) : https://fedibird.com/@hayatehay
-* Threads : https://www.threads.net/@hayatehay_njb
 * YouTube (a.k.a. Goz-Mez) : https://www.youtube.com/@hayatehay
-* Twitter (a.k.a. X) : https://twitter.com/hayatehay
+* Twitter : https://twitter.com/hayatehay
 * Fantia : https://fantia.jp/fanclubs/380379
