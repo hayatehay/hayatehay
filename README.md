@@ -26,6 +26,6 @@ I'm Jin Asanami (a.k.a. Hayate Nakamura). I belong Department of Electrical and 
 * SoundCloud : https://soundcloud.com/hayatehay
 * SourceForge : https://sourceforge.net/u/hayate-njbradio/profile/
 * <s>OSDN : https://osdn.net/users/maroujin/</s>
-* YouTube (a.k.a. Goz-Mez) : https://www.youtube.com/@hayatehay
+* YouTube (a.k.a. Goz-Mez) : https://www.youtube.com/@jinasanamiofficial
 * Twitter : https://twitter.com/hayatehay
 * Fantia : https://fantia.jp/fanclubs/380379
