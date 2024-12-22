@@ -20,12 +20,14 @@ I'm Jin Asanami (a.k.a. Hayate Nakamura). I belong Department of Electrical and 
 # Links
 * Mail : `hayatehay.njb<at>gmail.com`
 * Misskey (9ineverse) : https://9ineverse.com/@hayatehay
-* Misskey (dot io) : https://misskey.io/@hayatehay
-* Misskey (dot design) : https://misskey.design/@hayatehay
+* Misskey (IO) : https://misskey.io/@hayatehay
+* Misskey (Design) : https://misskey.design/@hayatehay
 * Misskey (Sushi) : https://sushi.ski/@hayatehay
 * Misskey (Nijimiss) : https://nijimiss.moe/@hayatehay
+* Misskey (NAKN) : https://mi.nakn.jp/@hayatehay
 * Mastodon (Fedibird) : https://fedibird.com/@hayatehay
-* Threads : https://www.threads.net/@hayatehay_njb
+* Mastodon (Social) : https://mastodon.social/@hayatehay
+* Threads : https://www.threads.net/@jinasanami
 * SoundCloud : https://soundcloud.com/hayatehay
 * Melon Books : https://www.melonbooks.co.jp/search/search.php?mode=search&text_type=author&name=麻浪迅
 * SourceForge : https://sourceforge.net/u/hayate-njbradio/profile/
