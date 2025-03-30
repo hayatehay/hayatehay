@@ -1,7 +1,7 @@
 # Jin Asanami (a.k.a Hayate Nakamura)
 -----
 
-[![Age: 19](https://img.shields.io/badge/Age-19-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_1)
+[![Age: 20](https://img.shields.io/badge/Age-19-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_1)
 [![Belong: Nakamura Musical Industries](https://img.shields.io/badge/Belongs-NMIMUSIC-green?style=for-the-badge)](https://github.com/nmimusic)
 [![Real Permissive: No GPL](https://img.shields.io/badge/real_permissive-No_GPL-99CC33?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/license/bsd-3-clause/)
 
@@ -24,7 +24,7 @@ I'm Jin Asanami (a.k.a. Hayate Nakamura). I graduated from Nagano National Colle
 * Misskey (Design) : https://misskey.design/@hayatehay
 * Misskey (Sushi) : https://sushi.ski/@hayatehay
 * Misskey (Nijimiss) : https://nijimiss.moe/@hayatehay
-* Misskey (NAKN) : https://mi.nakn.jp/@hayatehay
+* Misskey (Neos21) : https://misskey.neos21.net/@hayatehay
 * Mastodon (Fedibird) : https://fedibird.com/@hayatehay
 * Mastodon (Social) : https://mastodon.social/@hayatehay
 * Threads : https://www.threads.net/@jinasanami
