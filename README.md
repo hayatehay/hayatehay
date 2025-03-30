@@ -1,7 +1,7 @@
 # Jin Asanami (a.k.a Hayate Nakamura)
 -----
 
-[![Age: 20](https://img.shields.io/badge/Age-19-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_1)
+[![Age: 20](https://img.shields.io/badge/Age-20-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_1)
 [![Belong: Nakamura Musical Industries](https://img.shields.io/badge/Belongs-NMIMUSIC-green?style=for-the-badge)](https://github.com/nmimusic)
 [![Real Permissive: No GPL](https://img.shields.io/badge/real_permissive-No_GPL-99CC33?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/license/bsd-3-clause/)
 
