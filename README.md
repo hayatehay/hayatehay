@@ -19,19 +19,18 @@ I'm Jin Asanami (a.k.a. Hayate Nakamura). I graduated from Nagano National Colle
 
 # Links
 * Mail : `hayatehay.njb<at>gmail.com`
-* Misskey (9ineverse) : https://9ineverse.com/@hayatehay
-* Misskey (IO) : https://misskey.io/@hayatehay
-* Misskey (Design) : https://misskey.design/@hayatehay
-* Misskey (Sushi) : https://sushi.ski/@hayatehay
-* Misskey (Nijimiss) : https://nijimiss.moe/@hayatehay
-* Misskey (Neos21) : https://misskey.neos21.net/@hayatehay
-* Mastodon (Fedibird) : https://fedibird.com/@hayatehay
-* Mastodon (Social) : https://mastodon.social/@hayatehay
+* PrisMisskey : https://prismisskey.space/@jinasanami
+* Misskey.io : https://misskey.io/@hayatehay
+* Misskey.design) : https://misskey.design/@hayatehay
+* Sushi.ski : https://sushi.ski/@hayatehay
+* Nijimiss.moe : https://nijimiss.moe/@hayatehay
+* Neos21 Misskey : https://misskey.neos21.net/@hayatehay
+* Fedibird.com : https://fedibird.com/@hayatehay
+* Mastodon.social : https://mastodon.social/@hayatehay
 * Threads : https://www.threads.net/@jinasanami
 * SoundCloud : https://soundcloud.com/hayatehay
 * Melon Books : https://www.melonbooks.co.jp/search/search.php?mode=search&text_type=author&name=麻浪迅
 * SourceForge : https://sourceforge.net/u/hayate-njbradio/profile/
-* <s>OSDN : https://osdn.net/users/maroujin/</s>
 * YouTube (a.k.a. Goz-Mez) : https://www.youtube.com/@jinasanamiofficial
 * X (a.k.a. Twitter) : https://twitter.com/hayatehay
 * Fantia : https://fantia.jp/fanclubs/380379
