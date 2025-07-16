@@ -21,10 +21,9 @@ I'm Jin Asanami (a.k.a. Hayate Nakamura). I graduated from Nagano National Colle
 * Mail : `hayatehay.njb<at>gmail.com`
 * PrisMisskey : https://prismisskey.space/@jinasanami
 * Misskey.io : https://misskey.io/@hayatehay
-* Misskey.design) : https://misskey.design/@hayatehay
+* Misskey.design : https://misskey.design/@hayatehay
 * Sushi.ski : https://sushi.ski/@hayatehay
 * Nijimiss.moe : https://nijimiss.moe/@hayatehay
-* Neos21 Misskey : https://misskey.neos21.net/@hayatehay
 * Fedibird.com : https://fedibird.com/@hayatehay
 * Mastodon.social : https://mastodon.social/@hayatehay
 * Threads : https://www.threads.net/@jinasanami
