@@ -1,4 +1,4 @@
-# Jin Asanami (a.k.a Hayate Nakamura)
+# Jin Asanami
 -----
 
 [![Age: 20](https://img.shields.io/badge/Age-20-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_1)
@@ -7,7 +7,7 @@
 
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=hayatehay&include_all_commits=true&show_icons=true&title_color=227bc8&text_color=225050&icon_color=ff0000&role=OWNER,ORGANIZATION_MEMBER)
 
-I'm Jin Asanami (a.k.a. Hayate Nakamura). I graduated from Nagano National College of Technology (Nagano Kosen) in March 2025. Also I've been doing most of the work for Nakamura Musical Industries Dojin Club (NMI) since 2017.
+I'm Jin Asanami. I graduated from Nagano National College of Technology (Nagano Kosen) in March 2025. Also I've been doing most of the work for Nakamura Musical Industries Dojin Club (NMI) since 2017.
 
 -----
 
