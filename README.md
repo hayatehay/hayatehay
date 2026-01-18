@@ -18,7 +18,7 @@ I'm Jin Asanami. I graduated from Nagano National College of Technology (Nagano 
 -----
 
 # Links
-* Mail : `hayatehay.njb<at>gmail.com`
+* Mail : `asanamij<at>ruritania.jp`
 * PrisMisskey : https://prismisskey.space/@jinasanami
 * Misskey.io : https://misskey.io/@hayatehay
 * Misskey.design : https://misskey.design/@hayatehay
